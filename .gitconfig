@@ -1,0 +1,6 @@
+[remote "both"]
+    url = https://github.com/antijun/Scriptorium.git
+    url = https://markus.teach.cs.toronto.edu/git/markus/csc309-2024-09/group_9420
+
+[remotes]
+    both = origin, other
